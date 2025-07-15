@@ -62,6 +62,34 @@ The standard MNIST dataset, containing 70,000 grayscale images of handwritten di
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-Hosting_&_Storage-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
+## Screen Shots
+
+### Data Augmentation
+#### Sample Digits
+![Default Samples](./visualizations/samples.png "mnist digits samples")
+
+#### Random Rotations
+![Random Rotations](./visualizations/random_rotations.png "rotated digits")
+
+#### Random Translations
+![Random Translations](./visualizations/random_translations.png "translated digits")
+
+#### Random Zoom
+![Random Zoom](./visualizations/random_zoom.png "zoomed digits")
+
+### Tranining & Evaluations
+
+#### Experiment 1 - Default CNN
+![Experiment 1](./visualizations/experiment1.png "Experiment 1 evaluations")
+
+#### Experiment 2 - Default CNN
+![Experiment 2](./visualizations/experiment3.png "Experiment 2 evaluations")
+
+#### Experiment 3 - Default CNN
+![Experiment 3](./visualizations/experiment4.png "Experiment 3 evaluations")
+
+
+
 ## 🏫 Lessons Learned
 
 1.  **Deep Learning Workflow:**
