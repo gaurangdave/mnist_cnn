@@ -10,6 +10,9 @@ This end-to-end project involves:
 3.  **Advanced Training:** Utilizing Keras callbacks for efficient training and model checkpointing.
 4.  **Model Conversion & Deployment:** Converting the final model to a web-friendly format and deploying it for real-time, in-browser predictions.
 
+## Demo
+🔗 Try it yourself! I'd love for you to see the speed difference in the live [demo](https://gaurangdave.me/portfolio/mnist-digit-recognition-cnn/demo)
+
 ## ✅ Solution Details
 
 ### 🧮 Performance Measure
